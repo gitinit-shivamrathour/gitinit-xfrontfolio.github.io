@@ -18,7 +18,7 @@ This site includes a nav-section, home-section, About-me-section, My-skills-sect
 Contributors names and contact info
 
 Mr. Shivam Singh Rajput  
-email: rtshivamsingh744@gmail.com
+email: shivampublic2001@gmail.com
 
 ## License/Rights
 
