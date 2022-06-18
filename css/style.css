@@ -721,13 +721,15 @@ footer span a:hover{
   .menu {
     position: absolute;
     top: 0;
-    margin-top: 200px;
-    left: 0;
+    margin-top: 180px;
+    left: 2px;
+    right: 2px;
     flex-direction: column;
-    width: 100%;
+    width: 92%;
     justify-content: center;
     align-items: center;
     background-color: #FFFF00;
+    color: black;
     box-sizing: border-box;
     box-radius: 2px;
   }
@@ -749,7 +751,7 @@ footer span a:hover{
     justify-content: center;
     margin: 0;
     padding: 0.5em 0;
-    width: 100%;
+    width: 92%;
     color: black;
     background-color: #FFFF00;
   }
