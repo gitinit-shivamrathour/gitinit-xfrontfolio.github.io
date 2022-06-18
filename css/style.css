@@ -198,12 +198,12 @@ section .title{
 
 /* home section */
 .home{
-    display: flex;
+    /* display: flex;
     background: url(img/65ec5ec00b1124c54aba40f8b4cc0f48.gif) no-repeat center center/cover;
     height: 100vh;
     color: white;
     min-height: 800px;
-    box-shadow: 0px 0px 50px black;
+    box-shadow: 0px 0px 50px black; */
 
 }
 
