@@ -715,6 +715,10 @@ footer span a:hover{
         max-width: 100%;
         padding: 0 20px;
     }
+
+    .navbaar {
+    position: fixed;
+  }
     .menu-button-container {
     display: flex;
   }
