@@ -217,7 +217,7 @@ section .home{
 
 .home .home-content .text-1{
     font-size: 27px;
-    margin: 0px -40px;
+    margin: 0px -25px;
     color: white;
 }
 
@@ -225,14 +225,14 @@ section .home{
     font-size: 75px;
     font-weight: 600;
     margin-left: -26px;
-    margin-top: -50px;
-    margin-bottom: -40px ;
+    margin-top: -35px;
+    margin-bottom: -25px ;
     color: white;
 }
 
 .home .home-content .text-3{
     font-size: 38px;
-    margin: 0px -40px;
+    margin: 0px -25px;
     
 }
 
