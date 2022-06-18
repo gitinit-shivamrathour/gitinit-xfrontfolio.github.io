@@ -183,7 +183,7 @@ section .title{
 .navbaar .menu li{
     list-style: none;
     display: inline-block;
-    color: black;
+    color: white;
 }
 .navbaar .menu li a:hover{
    cursor: pointer;
@@ -217,7 +217,7 @@ section .home{
 
 .home .home-content .text-1{
     font-size: 27px;
-    margin: 0px -25px;
+    margin: 0px -40px;
     color: white;
 }
 
@@ -225,14 +225,14 @@ section .home{
     font-size: 75px;
     font-weight: 600;
     margin-left: -26px;
-    margin-top: -35px;
-    margin-bottom: -55px ;
+    margin-top: -50px;
+    margin-bottom: -40px ;
     color: white;
 }
 
 .home .home-content .text-3{
     font-size: 38px;
-    margin: 0px -25px;
+    margin: 0px -40px;
     
 }
 
