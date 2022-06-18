@@ -734,7 +734,7 @@ footer span a:hover{
     transition: height 400ms cubic-bezier(0.23, 1, 0.32, 1);
   }
   #menu-toggle:checked ~ .menu li {
-    border: 1px solid #FFFF00;
+    border: 1px solid white;
     height: 2.5em;
     padding: 0.5em;
     transition: height 400ms cubic-bezier(0.23, 1, 0.32, 1);
@@ -746,7 +746,7 @@ footer span a:hover{
     padding: 0.5em 0;
     width: 92%;
     color: black;
-    background-color: #FFFF00;
+    background-color: green;
   }
   .menu > li:not(:last-child) {
     border-bottom: 1px solid black;
