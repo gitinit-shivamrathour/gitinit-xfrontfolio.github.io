@@ -188,7 +188,7 @@ section .title{
 }
 
 .navbaar .menu li a{
-    color: #fff;
+    color: black;
     font-size: 18px;
     font-weight: 500;
     margin-left: 32px;
@@ -715,9 +715,9 @@ footer span a:hover{
   .menu {
     position: absolute;
     top: 0;
-    margin-top: 100px;
-    left: 4px;
-    right: 4px;
+    margin-top: 80px;
+    left: 6px;
+    right: 6px;
     flex-direction: column;
     width: 90%;
     justify-content: center;
