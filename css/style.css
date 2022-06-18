@@ -83,9 +83,7 @@ section .title{
 }
 
 /* menu btn */
-
 @import url(https://fonts.googleapis.com/css?family=Raleway);
-
 .menu {
   display: flex;
   flex-direction: row;
@@ -191,7 +189,7 @@ section .title{
 }
 
 .navbaar .menu li a{
-    color: black;
+    color: white;
     font-size: 18px;
     font-weight: 500;
     margin-left: 32px;
@@ -199,10 +197,9 @@ section .title{
 }
 
 /* home section */
-
-section .home{
+.home{
     display: flex;
-    background: url('img/solar01.gif') no-repeat center center/cover;
+    background: url(img/65ec5ec00b1124c54aba40f8b4cc0f48.gif) no-repeat center center/cover;
     height: 100vh;
     color: white;
     min-height: 800px;
@@ -857,5 +854,3 @@ footer span a:hover{
         border-radius: 12px;
     }
 }
-
-
