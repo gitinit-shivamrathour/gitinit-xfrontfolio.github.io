@@ -83,12 +83,6 @@ section .title{
 }
 
 /* menu btn */
-.menu-btn{
-    color: #fff;
-    font-size: 25px;
-    cursor: pointer;
-    display: none;
-}
 
 @import url(https://fonts.googleapis.com/css?family=Raleway);
 
@@ -721,18 +715,17 @@ footer span a:hover{
   .menu {
     position: absolute;
     top: 0;
-    margin-top: 180px;
-    left: 2px;
-    right: 2px;
+    margin-top: 100px;
+    left: 4px;
+    right: 4px;
     flex-direction: column;
-    width: 92%;
+    width: 90%;
     justify-content: center;
     align-items: center;
     background-color: #FFFF00;
     color: black;
-    box-sizing: border-box;
-    box-radius: 2px;
   }
+
   #menu-toggle ~ .menu li {
     height: 0;
     margin: 0;
@@ -756,7 +749,7 @@ footer span a:hover{
     background-color: #FFFF00;
   }
   .menu > li:not(:last-child) {
-    border-bottom: 1px solid #444;
+    border-bottom: 1px solid black;
   }
     
     .home{
