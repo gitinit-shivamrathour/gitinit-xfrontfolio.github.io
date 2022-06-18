@@ -727,8 +727,9 @@ footer span a:hover{
     width: 100%;
     justify-content: center;
     align-items: center;
-    color: black;
     background-color: #FFFF00;
+    box-sizing: border-box;
+    box-radius: 2px;
   }
   #menu-toggle ~ .menu li {
     height: 0;
@@ -749,7 +750,7 @@ footer span a:hover{
     margin: 0;
     padding: 0.5em 0;
     width: 100%;
-    color: white;
+    color: black;
     background-color: #FFFF00;
   }
   .menu > li:not(:last-child) {
