@@ -653,7 +653,7 @@ footer span a:hover{
     
     
     .navbaar .menu{
-        position: fixed;
+        position: relative;
         background: rgb(255, 255, 0);
         width: 92%;
         right: -100%;
