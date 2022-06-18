@@ -201,7 +201,7 @@ section .title{
 /* home section */
 .home{
     display: flex;
-    background-image: url(img/silhouette-forest-landscape-background_1308-73525.webp) no-repeat center center/cover;
+    background: url("img/silhouette-forest-landscape-background_1308-73525.webp") no-repeat center center/cover;
     height: 100vh;
     color: #fff;
     min-height: 800px;
